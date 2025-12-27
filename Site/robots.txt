@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aurora-solutions.netlify.app/sitemap.xml
+Sitemap: https://aurorasolutions17800.github.io/aurora-solutions/sitemap.xml

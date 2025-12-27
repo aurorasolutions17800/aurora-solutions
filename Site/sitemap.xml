@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>https://aurora-solutions.netlify.app/</loc>
+      <loc>https://aurorasolutions17800.github.io/aurora-solutions/</loc>
       <lastmod>2025-01-01</lastmod>
       <priority>1.00</priority>
    </url>
 
    <url>
-      <loc>https://aurora-solutions.netlify.app/saujon.html</loc>
+      <loc>https://aurorasolutions17800.github.io/aurora-solutions/saujon.html</loc>
       <lastmod>2025-01-01</lastmod>
-      <priority>10</priority>
+      <priority>0.80</priority>
    </url>
    <url>
-      <loc>https://aurora-solutions.netlify.app/Gemozac.html</loc>
+      <loc>https://aurorasolutions17800.github.io/aurora-solutions/Gemozac.html</loc>
       <lastmod>2025-01-01</lastmod>
-      <priority>1</priority>
+      <priority>0.80</priority>
    </url>
    <url>
-      <loc>https://aurora-solutions.netlify.app/Royan.html</loc>
+      <loc>https://aurorasolutions17800.github.io/aurora-solutions/Royan.html</loc>
       <lastmod>2025-01-01</lastmod>
-      <priority>1</priority>
+      <priority>0.80</priority>
    </url>
    <url>
-      <loc>https://aurora-solutions.netlify.app/jonzac.html</loc>
+      <loc>https://aurorasolutions17800.github.io/aurora-solutions/jonzac.html</loc>
       <lastmod>2025-01-01</lastmod>
-      <priority>1</priority>
+      <priority>0.80</priority>
    </url>
    <url>
-      <loc>https://aurora-solutions.netlify.app/Marennes.html</loc>
+      <loc>https://aurorasolutions17800.github.io/aurora-solutions/Marennes.html</loc>
       <lastmod>2025-01-01</lastmod>
-      <priority>1</priority>
+      <priority>0.80</priority>
    </url>
    <url>
-      <loc>https://aurora-solutions.netlify.app/Cognac.html</loc>
+      <loc>https://aurorasolutions17800.github.io/aurora-solutions/Cognac.html</loc>
       <lastmod>2025-01-01</lastmod>
-      <priority>1</priority>
+      <priority>0.80</priority>
    </url>
    <url>
-      <loc>https://aurora-solutions.netlify.app/Saintes.html</loc>
+      <loc>https://aurorasolutions17800.github.io/aurora-solutions/Saintes.html</loc>
       <lastmod>2025-01-01</lastmod>
-      <priority>1</priority>
+      <priority>0.80</priority>
    </url>
 </urlset>
