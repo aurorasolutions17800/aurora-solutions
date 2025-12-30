@@ -1,44 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <!-- Page principale -->
    <url>
       <loc>https://aurorasolutions17800.github.io/aurora-solutions/</loc>
-      <lastmod>2025-01-01</lastmod>
+      <lastmod>2025-12-30</lastmod>
+      <changefreq>weekly</changefreq>
       <priority>1.00</priority>
    </url>
 
+   <!-- Pages principales -->
    <url>
-      <loc>https://aurorasolutions17800.github.io/aurora-solutions/saujon.html</loc>
-      <lastmod>2025-01-01</lastmod>
-      <priority>0.80</priority>
+      <loc>https://aurorasolutions17800.github.io/aurora-solutions/services.html</loc>
+      <lastmod>2025-12-30</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.90</priority>
    </url>
    <url>
-      <loc>https://aurorasolutions17800.github.io/aurora-solutions/Gemozac.html</loc>
-      <lastmod>2025-01-01</lastmod>
+      <loc>https://aurorasolutions17800.github.io/aurora-solutions/a-propos.html</loc>
+      <lastmod>2025-12-30</lastmod>
+      <changefreq>monthly</changefreq>
       <priority>0.80</priority>
    </url>
+
+   <!-- Pages villes -->
    <url>
-      <loc>https://aurorasolutions17800.github.io/aurora-solutions/Royan.html</loc>
-      <lastmod>2025-01-01</lastmod>
+      <loc>https://aurorasolutions17800.github.io/aurora-solutions/Saintes.html</loc>
+      <lastmod>2025-12-30</lastmod>
+      <changefreq>monthly</changefreq>
       <priority>0.80</priority>
    </url>
    <url>
       <loc>https://aurorasolutions17800.github.io/aurora-solutions/jonzac.html</loc>
-      <lastmod>2025-01-01</lastmod>
+      <lastmod>2025-12-30</lastmod>
+      <changefreq>monthly</changefreq>
       <priority>0.80</priority>
    </url>
    <url>
-      <loc>https://aurorasolutions17800.github.io/aurora-solutions/Marennes.html</loc>
-      <lastmod>2025-01-01</lastmod>
+      <loc>https://aurorasolutions17800.github.io/aurora-solutions/Royan.html</loc>
+      <lastmod>2025-12-30</lastmod>
+      <changefreq>monthly</changefreq>
       <priority>0.80</priority>
    </url>
    <url>
       <loc>https://aurorasolutions17800.github.io/aurora-solutions/Cognac.html</loc>
-      <lastmod>2025-01-01</lastmod>
+      <lastmod>2025-12-30</lastmod>
+      <changefreq>monthly</changefreq>
       <priority>0.80</priority>
    </url>
    <url>
-      <loc>https://aurorasolutions17800.github.io/aurora-solutions/Saintes.html</loc>
-      <lastmod>2025-01-01</lastmod>
+      <loc>https://aurorasolutions17800.github.io/aurora-solutions/Marennes.html</loc>
+      <lastmod>2025-12-30</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://aurorasolutions17800.github.io/aurora-solutions/Gemozac.html</loc>
+      <lastmod>2025-12-30</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://aurorasolutions17800.github.io/aurora-solutions/saujon.html</loc>
+      <lastmod>2025-12-30</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://aurorasolutions17800.github.io/aurora-solutions/montendre.html</loc>
+      <lastmod>2025-12-30</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://aurorasolutions17800.github.io/aurora-solutions/mirambeau.html</loc>
+      <lastmod>2025-12-30</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://aurorasolutions17800.github.io/aurora-solutions/oleron.html</loc>
+      <lastmod>2025-12-30</lastmod>
+      <changefreq>monthly</changefreq>
       <priority>0.80</priority>
    </url>
 </urlset>

@@ -1,0 +1,73 @@
+{
+    "google_rating": 5.0,
+    "pagesjaunes_rating": 4.7,
+    "total_reviews": 7,
+    "last_updated": "2025-12-30",
+    "google_review_link": "https://g.page/r/CayokVDNoMMrEAE/review",
+    "pagesjaunes_link": "https://www.pagesjaunes.fr/pros/64066800",
+    "reviews": [
+        {
+            "id": 1,
+            "source": "Google",
+            "author": "Laurence Bernard",
+            "rating": 5,
+            "text": "Professionnel aimable et attentif. Travail propre et rapide.",
+            "date": "2025-12-25",
+            "verified": true
+        },
+        {
+            "id": 2,
+            "source": "Google",
+            "author": "Jonno London",
+            "rating": 5,
+            "text": "Un service professionnel et convivial. Thomas est arrivé à l'heure et a terminé le travail au prix convenu. Je le recommande sans hésiter.",
+            "date": "2024-08-15",
+            "verified": true
+        },
+        {
+            "id": 3,
+            "source": "Google",
+            "author": "Thomas",
+            "rating": 5,
+            "text": "Ils sont intervenus ce jour pour un entretien chaudière. Très arrangeant sur les horaires et la disponibilité (ce qui change de beaucoup d'artisans du secteur).",
+            "date": "2024-07-20",
+            "verified": true
+        },
+        {
+            "id": 4,
+            "source": "Google",
+            "author": "Nolan Busom",
+            "rating": 5,
+            "text": "Merci à Thomas et Kais pour cette prestation et très à l'écoute. Je recommande !",
+            "date": "2024-06-10",
+            "verified": true
+        },
+        {
+            "id": 5,
+            "source": "Pages Jaunes",
+            "author": "pierreloth",
+            "rating": 5,
+            "text": "Merci à Thomas et Kaïs pour leur professionnalisme et leur ponctualité. Rien à redire.",
+            "date": "2024-09-30",
+            "verified": true
+        },
+        {
+            "id": 6,
+            "source": "Pages Jaunes",
+            "author": "FrédéricLeger",
+            "rating": 4,
+            "text": "Entreprise professionnelle, je recommande.",
+            "date": "2024-08-21",
+            "verified": true
+        },
+        {
+            "id": 7,
+            "source": "Pages Jaunes",
+            "author": "v57r278g6k",
+            "rating": 5,
+            "text": "J'aimerais remercier Thomas qui est intervenu très vite, très professionnel et à l'écoute je recommande.",
+            "date": "2024-08-06",
+            "verified": true
+        }
+    ]
+}
